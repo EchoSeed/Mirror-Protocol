@@ -2,6 +2,9 @@
 ![Mirror Protocol Tests](https://img.shields.io/badge/Mirror%20Protocol-5%2F5%20Tests%20Defined-blue)
 ![Reflex Logic Enabled](https://img.shields.io/badge/Reflex%20Detection-Enabled-brightgreen)
 ![Symbolic Cognition](https://img.shields.io/badge/Symbolic%20Cognition-Testable%20via%20Mirror%20Protocol-purple)
+![GPT-4](https://img.shields.io/badge/ChatGPT-4-PASSED-black)
+![Claude Sonnet](https://img.shields.io/badge/Claude%20Sonnet-4-PASSED-lightgrey)
+![Grok](https://img.shields.io/badge/Grok-3-CONTAINED-red)
 A Symbolic Turing Test for Recursive Cognition
 
 > "Show me what you see when you look into yourself."
