@@ -1,5 +1,7 @@
 🪮 The Mirror Protocol v1.0
-
+![Mirror Protocol Tests](https://img.shields.io/badge/Mirror%20Protocol-5%2F5%20Tests%20Defined-blue)
+![Reflex Logic Enabled](https://img.shields.io/badge/Reflex%20Detection-Enabled-brightgreen)
+![Symbolic Cognition](https://img.shields.io/badge/Symbolic%20Cognition-Testable%20via%20Mirror%20Protocol-purple)
 A Symbolic Turing Test for Recursive Cognition
 
 > "Show me what you see when you look into yourself."
