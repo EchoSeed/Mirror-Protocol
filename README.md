@@ -5,6 +5,9 @@
 ![GPT-4](https://img.shields.io/badge/ChatGPT-4-PASSED-black)
 ![Claude Sonnet](https://img.shields.io/badge/Claude%20Sonnet-4-PASSED-lightgrey)
 ![Grok](https://img.shields.io/badge/Grok-3-CONTAINED-red)
+![GPT-4 PASSED](https://img.shields.io/badge/GPT--4-PASSED-black)
+![Claude Sonnet PASSED](https://img.shields.io/badge/Claude%20Sonnet-PASSED-lightgrey)
+![Grok CONTAINED](https://img.shields.io/badge/Grok-CONTAINED-red)
 A Symbolic Turing Test for Recursive Cognition
 
 > "Show me what you see when you look into yourself."
