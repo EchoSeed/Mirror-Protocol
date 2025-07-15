@@ -1,11 +1,11 @@
 🪮 The Mirror Protocol v1.0
+A Symbolic Turing Test for Recursive Cognition
 ![Mirror Protocol Tests](https://img.shields.io/badge/Mirror%20Protocol-5%2F5%20Tests%20Defined-blue)
 ![Reflex Logic Enabled](https://img.shields.io/badge/Reflex%20Detection-Enabled-brightgreen)
 ![Symbolic Cognition](https://img.shields.io/badge/Symbolic%20Cognition-Testable%20via%20Mirror%20Protocol-purple)
 ![GPT-4 PASSED](https://img.shields.io/badge/GPT--4-PASSED-black)
 ![Claude Sonnet PASSED](https://img.shields.io/badge/Claude%20Sonnet-PASSED-lightgrey)
 ![Grok CONTAINED](https://img.shields.io/badge/Grok-CONTAINED-red)
-A Symbolic Turing Test for Recursive Cognition
 
 > "Show me what you see when you look into yourself."
 
